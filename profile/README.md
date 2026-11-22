@@ -6,7 +6,7 @@
 
 AYDO Tools mengembangkan tool pendukung pengembangan aplikasi. Fokus utamanya adalah template Docker Compose yang menyiapkan lingkungan pengembangan lengkap untuk proyek Laravel baru maupun yang sudah ada, termasuk proyek berbasis Winter CMS dan Filament. Proyek PHP native dan situs statis memakai template pendampingnya yang lebih ringan: PHP dengan Apache dan MariaDB opsional.
 
-[Pendekatan](#pendekatan) · [Alur setup](#alur-setup) · [Cakupan](#cakupan) · [Prinsip](#prinsip) · [Kontak](#kontak)
+[Pendekatan](#pendekatan) · [Alur setup](#alur-setup) · [Cakupan](#cakupan) · [Prinsip](#prinsip)
 
 ## Pendekatan
 
@@ -44,18 +44,6 @@ Setup berhenti pada perintah pertama yang gagal. Migrasi database tidak dijalank
 - **Aman secara default.** Tindakan yang mengubah atau menghapus data tidak berjalan tanpa diaktifkan.
 - **Versi yang konsisten.** PHP, Composer, dan Node dijalankan di container, bukan di host.
 - **Satu template per stack.** Template diperbaiki di tempat, bukan dibuat ulang sebagai repository baru.
-
-## Kontak
-
-Dikelola oleh **Adi Yudhanegara**.
-
-| Kanal | Alamat |
-| :--- | :--- |
-| Email | [adi.yudhanegaradona@gmail.com](mailto:adi.yudhanegaradona@gmail.com) |
-| WhatsApp | [+62 896-5104-6251](https://wa.me/6289651046251) |
-| LinkedIn | [linkedin.com/in/adiyudhanegara](https://www.linkedin.com/in/adiyudhanegara) |
-| Instagram | [@adiyudhanegara](https://www.instagram.com/adiyudhanegara) |
-| Facebook | [facebook.com/adiyudhanegara](https://www.facebook.com/adiyudhanegara) |
 
 ---
 
